@@ -1,0 +1,49 @@
+						 _______________________________________________________________________________________
+						| 											|
+						|	     ______   _____ _________  _____   _       __    __   _____		        |
+						|	     |     | |     ||___ ___| |     | | |     |  |  |  | |     |		|
+						|	     |  O  | |  O  |   | |    |  O  | | |     |  |__|  | |  O  |		|
+						|	     |     | |  _  |   | |    |  _  | | |     |   __   | |  _  |		|
+						|	     |  O  | | | | |   | |    | | | | | |___  |  |  |  | | | | |		|
+						|	     ______| |_| |_|   |_|    |_| |_| |_____| |__|  |__| |_| |_|		|
+						|											|
+						|   	    	 ____    __   ________  ____      ____   ________    __			|
+						| 		|    \  |  | |        | \   \    /   /  |        |  |  |		|
+						|		|     \ |  | |   OO   |  \   \  /   /   |   OO   |  |  |		|
+						|		|  |\  \|  | |   __   |   \   \/   /    |   __   |  |  |		|
+						|		|  | \     | |  |  |  |    \      /	|  |  |  |  |  |____		|
+						|		|  |  \	   | |  |  |  |     \    /	|  |  |  |  |       |		|
+						|		|__|   \___| |__|  |__|      \__/       |__|  |__|  |_______|		|
+						|											|
+						|											|
+						|	. Cada jogador começará o jogo com 12 embarcações posicionadas no mapa,		|
+						|	6 canoas, 4 submarinos e 2 porta-aviões para cada jogador. O objetivo do 	|
+						|	jogo é destruir as 12 embarcações primeiro de seu oponente.			|
+						|											|
+						|											|							
+						|	   Canoa		Submarino		Porta-Aviões			|
+						|											|
+						|				     ____						|
+						|	     OO\		    ||__O						|
+						|            || \		    ||		    __+__+____+___+__-___		|
+						|	     ||__\		    ||		    \			/		|
+						|	 ____||_____    	____||___	     \_________________/		|
+						|	 \         /   	       /         \	       \	     /			|	
+						|     	  \_______/	       \_________/		\___________/			|	
+						|											|							
+						|											|
+						|	.Cada embarcação tem suas diferentes formas de reagir ao ataque de um míssil.	|														|											|
+						|	.O porta aviões ocupa 4 casas no tabuleiro e ao ser atacado, tem uma chance de 	|
+						|	abater o missil.								|
+						|											|
+						|	.O submarino ocupa 2 casas no tabuleiro e por ser muito resistente, precisa ser	|
+						|	atacado no mínimo 2 vezes cada casa para poder ser destruído.			|
+						|											|
+						|	.A canoa é uma simples embarcação que é destruída no primeiro acerto.		|
+						|											|														|											|
+						|      	- - - - - - - - - - Selecione um comando - - - - - - - - -	 		|
+						|											|								
+						|     	1 - Voltar									|
+						|     	2 - Sair									|
+						|											|
+						|_______________________________________________________________________________________|

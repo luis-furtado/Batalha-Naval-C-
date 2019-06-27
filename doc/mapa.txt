@@ -1,0 +1,35 @@
+########## MAPA PARA SER LIDO AS COORDENADAS DAS EMBARCA‚ÍES #######################
+
+#JOGADOR 1
+
+1 11 canoa nada
+6 4 canoa nada
+10 8 canoa nada
+10 10 canoa nada
+7 5 canoa nada
+11 11 canoa nada
+
+2 5 submarino direita
+4 1 submarino direita
+11 7 submarino esquerda
+7 10 submarino baixo
+
+11 4 porta-avioes cima
+5 7 porta-avioes direita
+
+#JOGADOR 2
+
+1 7 canoa nada
+2 11 canoa nada
+6 10 canoa nada
+7 11 canoa nada
+11 2 canoa nada
+11 10 canoa nada
+
+6 1 submarino direita
+7 3 submarino direita
+10 3 submarino esquerda
+9 8 submarino direita
+
+4 1 porta-avioes cima
+6 6 porta-avioes direita
